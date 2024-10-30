@@ -1,0 +1,108 @@
+[
+    {
+        "nombre": "Ana Pau",
+        "descripcion": "Amiga conocida en trabajos grupales online, es muy extrovertida y amorosa. 
+        Fun fact: le gustan los extrangeros (ella es mexicana).",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/ana-pau-1.jpg?raw=true
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Anto",
+        "descripcion": "Nos unio nuestro odio compartido por las matematicas en septimo bascio y el amor por la nutella.
+        Fun fact: para nuestros cumpleaños siempre nos regalamos una nutella.",
+        "signo": "colegio",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/anto-1.jpg?raw=true",
+        "fotos":["anto-1.jpg","anto-2.jpg","anto-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Dani",
+        "descripcion": "Muy muy tierna, seca y genuina. 
+        Fun fact: en el colegio fue matematleta.",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/dani-1.jpg?raw=true",
+        "fotos":["dani-1.jpg","dani-2.jpg","dani-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Flanfo",
+        "descripcion": "La persona mas yeta que vas a conocer, nunca faltan las risas con ella.
+        Fun fact: tiene un gato llamado Guatona, que le hace justicia a su apariencia, y es bizca.",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/flanfo-1.jpg?raw=true,
+        "fotos":["flanfo-1.jpg","flanfo-2.jpg","flanfo-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Flori",
+        "descripcion": "No importa lo que haga, todo le sale chistoso.
+        Fun fact: Tiene el  mismo corte de pelo que su pololo.",
+        "signo": "colegio",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/flori-1.jpg?raw=true",
+        "fotos":["flori-1.jpg","flori-2.jpg","flori-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Fran",
+        "descripcion": "Conocida en el primer trabajo en grupo realizado en presencial, es muy buena para hechar la talla.
+        Fun fact: su placer culposo son los zorrones.",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/fran-1.jpg?raw=true",
+        "fotos":["fran-1.jpg","fran-2.jpg","fran-3.jpg"],
+        "github": "https://github.com/gyacometti"
+    },
+    {
+        "nombre": "Jael",
+        "descripcion": "Amiga que siempre ha vivido a un par de cuadras de mi casa, incluso cuando ambas nos mudamos.
+        Fun fact: fue Miss Providencia este año.",
+        "signo": "colegio",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/jael-1.jpg?raw=true",
+        "fotos":["jael-1.jpg","jael-2.jpg","jael-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Jose",
+        "descripcion":"Siempre tiene una anecdota nueva para contar, y por mas que a primera impresion no lo parezca es muy sensible y tierna.
+        Fun fact: Le encantan los camaros",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/jose-1.jpg?raw=true",
+        "fotos":["jose-1.jpg","jose-2.jpg","jose-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+     {
+        "nombre": "Katia",
+        "descripcion":"De mis primeras amigas del colegio, puede parecer pesada pero es 'un dulce' (sus palabras).
+        Fun fact: su spirit animal es el oso perezoso.",
+        "signo": "colegio",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/katia-1.jpg?raw=true",
+        "fotos":["katia-1.jpg","katia-2.jpg","katia-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+    {
+        "nombre": "Majo",
+        "descripcion":"Muy dulce y preocupada. Si alguien te fuese a preguntar con interes: como estas, seguramente fue ella.
+        Fun fact: tiene un perro llamado Milo, que decide ignorarla cuando lo llama.",
+        "signo": "colegio",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/majo-1.jpg?raw=true",
+        "fotos":["majo-1.jpg","majo-2.jpg","majo-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+     {
+        "nombre": "Marce",
+        "descripcion":"Muy risueña,",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/marce-1.jpg?raw=true",
+        "fotos":["marce-1.jpg","marce-2.jpg","marce-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    },
+     {
+        "nombre": "Michi",
+        "descripcion":"Diseño editorial del reglamento interno de OtrosPérez realizado durante la práctica profesional en dicho estudio.",
+        "signo": "universidad",
+        "foto": "https://github.com/t0rdn/clase13/blob/main/img/michi-1.jpg?raw=true",
+        "fotos":["michi-1.jpg","michi-2.jpg","michi-3.jpg"],
+        "github": "https://github.com/t0rdn"
+    }
+    
+  ]
+    
